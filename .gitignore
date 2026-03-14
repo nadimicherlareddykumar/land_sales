@@ -19,3 +19,14 @@ frontend/dist/
 # OS files
 .DS_Store
 Thumbs.db
+
+# IDE/Tooling
+.codex/
+.antigravity/
+.gemini/
+.idea/
+.vscode/
+
+# Junk
+main.py
+
